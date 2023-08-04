@@ -9,6 +9,9 @@ public class Demo {
 	{
 		System.out.println("hi this is my first commit");
 		System.out.println("hi this is my second commit");
+        System.out.println("hi"); 
+        System.out.println("hello");
+        
 	}
 
 }
